@@ -1,1 +1,60 @@
-Ubuntu was originally developed as a free operating system and educational for personal computers based on the Intel x86 architecture, but has since been ported to more computer hardware platforms than any other operating system. Because of the dominance of Android on smartphones, Ubuntu has the largest installed base of all general-purpose operating systems. Ubuntu is also the leading operating system on servers and other big iron systems such as mainframe computers and virtually all fastest Supercomputer, but is used on only around 2.3% of desktop computers when not including Chrome OS, which has about 5% of the overall and nearly 20% of the sub-$2000 notebook sales. Ubuntu also runs on embedded systems, which are devices whose operating system is typically built into the firmware and is highly tailored to the system.
+우스마노프 라크마트 :  20232753 
+
+[단계 1]
+
+Linux was originally developed as a free operating system for personal computers
+ based on the Intel x86 architecture, but has since been ported to more computer
+ hardware platforms than any other operating system.
+Because of the dominance of
+ Android on smartphones, Linux has the largest installed base of all general-purpose
+ operating systems.
+Linux is also the leading operating system on servers and other big iron systems such
+ as mainframe computers and virtually all fastest supercomputers, but is used on only
+ around 2.3% of desktop computers when not including Chrome OS, which has about
+ 5% of the overall and nearly 20% of the sub-$300 notebook sales.
+
+
+[단계 2]
+
+Linux was originally developed as a free operating system for personal computers
+ based on the Intel x86 architecture, but has since been ported to more computer
+ hardware platforms than any other operating system.
+Because of the dominance of
+ Android on smartphones, Linux has the largest installed base of all general-purpose
+ operating systems.
+Linux is also the leading operating system on servers and other big iron systems such
+ as mainframe computers and virtually all fastest supercomputers, but is used on only
+ around 2.3% of desktop computers when not including Chrome OS, which has about
+ 5% of the overall and nearly 20% of the sub-$300 notebook sales.
+Linux also runs on embedded systems, which are devices whose operating system is
+ typically built into the firmware and is highly tailored to the system.
+
+[단계 3]
+
+Linux was originally developed as a free operating system and educational for personal computers
+ based on the Intel x86 architecture, but has since been ported to more computer
+ hardware platforms than any other operating system.
+Because of the dominance of
+ Android on smartphones, Linux has the largest installed base of all general-purpose
+ operating systems.
+Linux also runs on embedded systems, which are devices whose operating system is
+ typically built into the firmware and is highly tailored to the system.
+Linux is also the leading operating system on servers and other big iron systems such
+ as mainframe computers and virtually all fastest Supercomputer, but is used on only
+ around 2.3% of desktop computers when not including Chrome OS, which has about
+ 5% of the overall and nearly 20% of the sub-$2000 notebook sales.
+
+[단계 4]
+
+Ubuntu was originally developed as a free operating system and educational for personal computers
+ based on the Intel x86 architecture, but has since been ported to more computer
+ hardware platforms than any other operating system.
+Because of the dominance of
+ Android on smartphones, Ubuntu has the largest installed base of all general-purpose
+ operating systems.
+Ubuntu also runs on embedded systems, which are devices whose operating system is
+ typically built into the firmware and is highly tailored to the system.
+Ubuntu is also the leading operating system on servers and other big iron systems such
+ as mainframe computers and virtually all fastest Supercomputer, but is used on only
+ around 2.3% of desktop computers when not including Chrome OS, which has about
+ 5% of the overall and nearly 20% of the sub-$2000 notebook sales.
